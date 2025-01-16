@@ -8,7 +8,7 @@ El programa calcula el total de descuento que se aplica a varios artículos con 
 
 ## Tecnologías Utilizadas
 
-- Lenguaje de programación: ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg)
+- Lenguaje de programación: ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg) C#
 
 ## Características
 
