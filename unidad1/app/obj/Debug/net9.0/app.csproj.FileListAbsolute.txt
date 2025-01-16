@@ -1,0 +1,14 @@
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\bin\Debug\net9.0\app.exe
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\bin\Debug\net9.0\app.deps.json
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\bin\Debug\net9.0\app.runtimeconfig.json
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\bin\Debug\net9.0\app.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\bin\Debug\net9.0\app.pdb
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\refint\app.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.pdb
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad1\app\obj\Debug\net9.0\ref\app.dll
