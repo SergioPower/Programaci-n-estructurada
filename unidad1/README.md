@@ -6,10 +6,6 @@ Este proyecto consiste en una sencilla calculadora que determina el total de des
 
 El programa calcula el total de descuento que se aplica a varios artículos con un porcentaje fijo. En este caso, se trabaja con 4 artículos relacionados con un setup de computadora (monitor, teclado, mouse y silla), y se aplica un descuento del 12% al total.
 
-## Tecnologías Utilizadas
-
-- Lenguaje de programación: ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg) C#
-
 ## Características
 
 - Permite definir el precio de cada artículo.
