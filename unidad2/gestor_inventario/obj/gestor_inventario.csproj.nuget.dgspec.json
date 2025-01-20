@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Debian\\home\\checo\\utel\\programacion_estructurada\\unidad2\\gestor_inventario\\gestor_inventario.csproj": {}
+    "/home/checo/utel/programacion_estructurada/unidad2/gestor_inventario/gestor_inventario.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Debian\\home\\checo\\utel\\programacion_estructurada\\unidad2\\gestor_inventario\\gestor_inventario.csproj": {
+    "/home/checo/utel/programacion_estructurada/unidad2/gestor_inventario/gestor_inventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Debian\\home\\checo\\utel\\programacion_estructurada\\unidad2\\gestor_inventario\\gestor_inventario.csproj",
+        "projectUniqueName": "/home/checo/utel/programacion_estructurada/unidad2/gestor_inventario/gestor_inventario.csproj",
         "projectName": "gestor_inventario",
-        "projectPath": "\\\\wsl.localhost\\Debian\\home\\checo\\utel\\programacion_estructurada\\unidad2\\gestor_inventario\\gestor_inventario.csproj",
-        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Debian\\home\\checo\\utel\\programacion_estructurada\\unidad2\\gestor_inventario\\obj\\",
+        "projectPath": "/home/checo/utel/programacion_estructurada/unidad2/gestor_inventario/gestor_inventario.csproj",
+        "packagesPath": "/home/checo/.nuget/packages/",
+        "outputPath": "/home/checo/utel/programacion_estructurada/unidad2/gestor_inventario/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/checo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
