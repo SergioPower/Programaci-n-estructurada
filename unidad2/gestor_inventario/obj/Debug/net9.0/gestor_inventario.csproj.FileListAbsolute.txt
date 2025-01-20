@@ -1,0 +1,15 @@
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\bin\Debug\net9.0\gestor_inventario.exe
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\bin\Debug\net9.0\gestor_inventario.deps.json
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\bin\Debug\net9.0\gestor_inventario.runtimeconfig.json
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\bin\Debug\net9.0\gestor_inventario.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\bin\Debug\net9.0\gestor_inventario.pdb
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.AssemblyInfoInputs.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.AssemblyInfo.cs
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.sourcelink.json
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\refint\gestor_inventario.dll
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.pdb
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\gestor_inventario.genruntimeconfig.cache
+\\wsl.localhost\Debian\home\checo\utel\programacion_estructurada\unidad2\gestor_inventario\obj\Debug\net9.0\ref\gestor_inventario.dll
