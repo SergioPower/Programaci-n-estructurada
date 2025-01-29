@@ -32,6 +32,19 @@ class Program
 					}
 
 					Console.WriteLine("------------------------------");
+
+					Console.WriteLine("¿Quieres hacer otra validación?");
+					int exit = ReadNumber("1. Sí 2. No");
+
+					if (exit == 2)
+					{
+						Console.WriteLine("Saliendo del programa...");
+						return;
+					}
+					else if (exit != 1)
+					{
+						Console.WriteLine("Opción no válida. Continuando con el programa...");
+					}
 					break;
 
 				case 2:
