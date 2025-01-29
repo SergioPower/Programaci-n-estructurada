@@ -4,22 +4,24 @@ class SumaDeNumeros
 {
 	static void Main(string[] args)
 	{
-		int[] numeros = new int[3];
+		// Array para almacenas los números
+		int[] numbers = new int[3];
 
-		Console.WriteLine("Bienvenido al programa");
+		Console.WriteLine("¡Bienvenido!");
 
-
-		for (int i = 0; i < numeros.Length; i++)
+		// Solicita datos por teclado
+		for (int i = 0; i < numbers.Length; i++)
 		{
-			bool esValido = false;
-			while (!esValido)
+			// Valida entrada de números
+			bool isValid = false;
+			while (!isValid)
 			{
 				Console.WriteLine($"Ingrese número {i + 1}: ");
-				string? entrada = Console.ReadLine();
+				string? input = Console.ReadLine();
 
-				if (int.TryParse(entrada, out numeros[i]))
+				if (int.TryParse(input, out numbers[i]))
 				{
-					esValido = true; // Si la conversión es exitosa, salimos del bucle
+					isValid = true; // Si la conversión es exitosa, salimos del bucle
 				}
 				else
 				{
@@ -28,11 +30,30 @@ class SumaDeNumeros
 			}
 		}
 
-		for (int i = 0; i < numeros.Length; i++)
+		// Menú
+		Console.WriteLine("Selecciona una opción:");
+		Console.WriteLine("1. Validar Suma  2. Salir");
+		string? option = Console.ReadLine();
+
+		switch (option)
 		{
-			Console.WriteLine(numeros[i]);
+			case "1":
+				Suma();
+				break;
+
+			case "2":
+				Console.WriteLine("Salir");
+				break;
+			default:
+				Console.WriteLine("Opción invalida");
+				break;
 		}
 
 
+	}
+
+	static void Suma()
+	{
+		Console.WriteLine("Suma");
 	}
 }
