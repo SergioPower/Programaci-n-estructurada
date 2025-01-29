@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiiCZjFCqRM=",
+  "success": true,
+  "projectFilePath": "/home/checo/utel/programacion_estructurada/unidad3/sentencias_de_control/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/checo/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.1/microsoft.dotnet.ilcompiler.9.0.1.nupkg.sha512",
+    "/home/checo/.nuget/packages/microsoft.net.illink.tasks/9.0.1/microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
+    "/home/checo/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/9.0.1/runtime.linux-x64.microsoft.dotnet.ilcompiler.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
